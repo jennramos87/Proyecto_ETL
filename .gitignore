@@ -1,0 +1,6 @@
+*.yaml
+*.png
+*.pdf
+Otros/
+venv/
+*.docx
