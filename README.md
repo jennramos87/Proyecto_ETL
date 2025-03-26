@@ -11,6 +11,10 @@ The project aims to conduct a data analysis to compare figures and historical tr
 - Openpyxl
 - os
 - re
+- unicodedata
+- matplotlib
+- mplfinance
+
 ## Instructions
 After creating the virtual environment, please install the libraries in the terminal ussing `pip` 
 ```bash
